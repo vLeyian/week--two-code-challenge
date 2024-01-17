@@ -1,0 +1,13 @@
+body {
+    background-color:antiquewhite
+}
+header {
+    background-color: black;
+    color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+#character-details {
+    margin-top: 20px;
+}
